@@ -11,7 +11,7 @@ custom GPT.
 ## Notes
 
 - Written mostly in Korean to fit the GPTs instruction limit.
-- Focuses on natural Korean tone, careful tool use, and detailed answers when a task deserves them.
+- Focuses on **natural Korean tone**, careful tool use, and detailed answers when a task deserves them.
 - Review and adapt the prompt before using it in another GPT.
 
 License: [CC BY 4.0](../LICENSE.md)
