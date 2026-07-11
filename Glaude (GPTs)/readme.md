@@ -6,7 +6,7 @@ custom GPT.
 
 ## Latest
 
-[`v1.2.0.md`](v1.2.0.md)
+[`v1.3.0.md`](v1.3.0.md)
 
 ## Notes
 

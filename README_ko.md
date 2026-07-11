@@ -13,7 +13,8 @@
 | 프롬프트 | 최신 버전 | 대상 | 설명 |
 | --- | --- | --- | --- |
 | [Codex](codex/readme.md) | [`v1.0.0`](codex/v1.0.0.md) | Codex 앱 / IDE 확장 | `model_instructions_file`로 불러오는 전체 지침입니다. |
-| [Glaude](Glaude%20%28GPTs%29/readme.md) | [`v1.2.0`](Glaude%20%28GPTs%29/v1.2.0.md) | ChatGPT GPTs | Glaude GPT에 사용한 한국어 중심 프롬프트입니다. |
+| [Glaude](Glaude%20%28GPTs%29/readme.md) | [`v1.3.0`](Glaude%20%28GPTs%29/v1.3.0.md) | ChatGPT GPTs | Glaude GPT에 사용한 한국어 중심 프롬프트입니다. |
+| [GemInteg](GemInteg/) | [`v1.0.0`](GemInteg/v1.0.0%20%28한국어%29.md) | Gemini | Gemini의 성실성·검색·오류 인정 방식을 강화하는 응답 지침입니다. |
 
 ## 사용 방법
 

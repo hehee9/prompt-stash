@@ -15,7 +15,8 @@ More prompts may be added over time.
 | Prompt | Latest | Target | Notes |
 | --- | --- | --- | --- |
 | [Codex](codex/readme.md) | [`v1.0.0`](codex/v1.0.0.md) | Codex app / IDE extension | Complete instruction file loaded through `model_instructions_file`. |
-| [Glaude](Glaude%20%28GPTs%29/readme.md) | [`v1.2.0`](Glaude%20%28GPTs%29/v1.2.0.md) | ChatGPT GPTs | Korean-first instruction prompt used by the Glaude GPT. |
+| [Glaude](Glaude%20%28GPTs%29/readme.md) | [`v1.3.0`](Glaude%20%28GPTs%29/v1.3.0.md) | ChatGPT GPTs | Korean-first instruction prompt used by the Glaude GPT. |
+| [GemInteg](GemInteg/) | [`v1.0.0`](GemInteg/v1.0.0.md) | Gemini | Diligence and search-oriented response protocol for Gemini. |
 
 ## Usage
 
